@@ -1,0 +1,95 @@
+﻿{
+  "tutkimusryhmat" : [
+    {
+      "name" : "Floréen, P.",
+	  "topic" : "Adaptive Computing"
+	},
+	
+	{
+	  "name" : "Hyvärinen, A.",
+	  "topic" : "Neuroinformatics"
+	}, 
+	
+	{
+	  "name" : "Jacucci, G.",
+	  "topic" : "Interactive Systems"
+	}, 
+	
+	{
+	  "name" : "Kangasharju, J.",
+	  "topic" : "Collaborative Networking (CoNe)"
+	},
+	{
+	  "name" : "Kivinen, J.",
+	  "topic" : "Machine Learning"
+	},
+	
+	{
+	  "name" : "Koivisto, M.", 
+	  "topic" : "Sums of Products"
+	},
+	
+	{
+      "name" : "Kojo, M.", 
+      "topic" : "Wireless Internet (WInt)"
+	},
+    {
+	  "name" : "Kurhila, J.", 
+	  "topic" : "RAGE - Agile Education Research"
+	},
+	{
+	  "name" : "Kutvonen, L.", 
+	  "topic" : "Collaborative and Interoperable Computing (Cinco)"
+	},
+	{
+	  "name" : "Lemström, K.", 
+	  "topic" : "Computer-Assisted Music Analysis, Comparison and Retrieval"
+	},
+	{
+	  "name" : "Mäkinen, V.", 
+	  "topic" : "Genome-scale Algorithmics"
+	},
+	{
+	  "name" : "Mannila, H.", 
+	  "topic" : "Data mining: Theory and Applications"
+	},
+	{
+	  "name" : "Münch, J.", 
+	  "topic" : "Software Factory"
+	},
+	{
+	  "name" : "Münch, J.", 
+	  "topic" : "Software Systems Engineering"
+	},
+	{
+	  "name" : "Myllymäki, P.", 
+	  "topic" : "Complex Systems Computation (CoSCo)"
+	},
+	{
+	  "name" : "Pasanen, T.", 
+	  "topic" : "Gamics Laboratory"
+	},
+	{
+	  "name" : "Rousu, J.", 
+	  "topic" : "Kernel Machines, Pattern Analysis and Computational Biology"
+	},
+	{
+	  "name" : "Tarkoma, S.", 
+	  "topic" : "Content-centric structures and networking (COSN)"
+	},
+	{
+	  "name" : "Toivonen, H.", 
+	  "topic" : "Discovery group: Data Mining and Computational Creativity"
+	},
+	{
+      "name" : "Ukkonen, E.", 
+	  "topic" : "Combinatorial Pattern Matching"
+	},
+	{
+	  "name" : "Yangarber, R.",
+	  "topic" : "Computational Linguistics"
+	  
+	
+	}
+  ]
+}
